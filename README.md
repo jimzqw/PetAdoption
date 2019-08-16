@@ -7,7 +7,7 @@ cd PetAdoption
 
 npm install
 
-npm link
+react-native link
 
 react-native run-ios
 ```
